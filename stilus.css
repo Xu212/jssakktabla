@@ -1,0 +1,11 @@
+body{
+    width: 100%;
+}
+#saktabla{
+    display: grid;
+    grid-template-columns: repeat(8,5%);
+}
+.cella{
+    text-align: center;
+    font-size: 350%;
+}
